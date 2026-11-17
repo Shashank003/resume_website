@@ -16,4 +16,4 @@ Push the files to a public GitHub repository. In **Settings → Pages**, select 
 Element selectors, class selectors, ID selectors, CSS variables, Flexbox, Grid, sticky positioning, responsive media queries, hover and focus states, text styling, spacing and borders.
 
 ## Source
-Resume content was adapted from the resume supplied by the student. No external JS libraries used.
+Resume content was adapted from the supplied resume and user-provided corrections. Code Rustlers is included under experience; VIT is explicitly marked as not completed. No external JS libraries used.
